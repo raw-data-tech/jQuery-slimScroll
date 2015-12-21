@@ -1,5 +1,5 @@
 {
-  "name": "rdt-jquery-slimscroll",
+  "name": "rdt-jqueryslimscroll",
   "version": "1.3.8",
   "description": "slimScroll is a small jQuery plugin that transforms any div into a scrollable area. slimScroll doesn't occupy any visual space as it only appears on a user initiated mouse-over.",
   "keywords": [
